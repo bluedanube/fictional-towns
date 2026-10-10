@@ -1,0 +1,188 @@
+{
+  "id": "ch01",
+  "title": "夜を待つロケット",
+  "girl": "U3C-01",
+  "status": "draft",
+  "scenes": [
+    {
+      "bg": "sewn-town/01-toki-rocket",
+      "time": "dusk",
+      "bgm": null,
+      "se": [
+        "water-low"
+      ],
+      "lines": [
+        {
+          "who": "narr",
+          "text": "橋の北に、ロケットの形をした遊具がある。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "先端が、夕方の白い光を受けている。"
+        },
+        {
+          "who": "narr",
+          "text": "そのてっぺんに、帽子が見える。大きな時計の形をした帽子だ。"
+        },
+        {
+          "who": "U3C-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "center"
+          },
+          "text": "「あ。通りがかりの人。灯守さんから、聞いてる」",
+          "missing": true
+        },
+        {
+          "who": "U3C-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「わたしはトキ。ここで、夜を待ってるの」",
+          "missing": true,
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "トキは梯子を下りて、すぐそばの空き家の窓をのぞく。"
+        },
+        {
+          "who": "narr",
+          "text": "窓の奥の壁に、古い時計がかかっている。針は止まっている。"
+        },
+        {
+          "who": "U3-01",
+          "icon": "U3-01",
+          "text": "「その時計は、正確ですよ」"
+        },
+        {
+          "who": "narr",
+          "text": "時計の店を営む時田さんが、いつのまにか隣に立っている。"
+        },
+        {
+          "who": "U3-01",
+          "icon": "U3-01",
+          "text": "「うちの時計はどれも、同じ時刻を指しますから。狂ったことは、一度もない」"
+        },
+        {
+          "who": "U3C-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "center"
+          },
+          "text": "「うん。みんな、そろってる。だから、安心」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "トキが帽子に手を添える。帽子の文字盤が、小さく鳴る。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "止まっていた針が、ひと目盛りだけ、戻る。"
+        },
+        {
+          "who": "narr",
+          "text": "かちり、と小さな音がする。部屋じゅうの埃が、一瞬だけ揺れる。"
+        },
+        {
+          "who": "narr",
+          "text": "それだけだ。部屋の様子は、何も変わらない。"
+        },
+        {
+          "who": "narr",
+          "text": "トキは、針の戻った時計を、しばらく見つめている。"
+        },
+        {
+          "who": "U3C-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「止まった時間はね、戻すと、ちょっとだけ息をするの」",
+          "missing": true
+        },
+        {
+          "who": "U3-01",
+          "icon": "U3-01",
+          "text": "「ひと針でいいんです。戻しすぎると、かえってわからなくなる」"
+        },
+        {
+          "who": "U3C-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「ひと針だけ。それが、わたしの決まり」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "空の白さが、薄く青に傾きはじめる。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "ロケットの窓に、夕方の光がたまっている。"
+        },
+        {
+          "who": "narr",
+          "text": "操縦席には、誰も座っていない。出発の時刻は、まだ決まっていない。"
+        },
+        {
+          "who": "narr",
+          "text": "時田さんは、店に戻っていく。ポケットの中で、小さな時計が静かに揺れている。"
+        },
+        {
+          "who": "narr",
+          "text": "遊具の影が、砂場の端まで伸びる。"
+        },
+        {
+          "who": "narr",
+          "text": "橋のほうから、水の音が風に乗って届く。"
+        },
+        {
+          "who": "narr",
+          "text": "トキの帽子の文字盤が、夕方の色に染まっている。"
+        },
+        {
+          "who": "U3C-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "center"
+          },
+          "text": "「夜になるまで、まだ少しある。ゆっくり、歩いてって」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "わたしは頭を下げる。"
+        },
+        {
+          "who": "U3C-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「また、あした。」",
+          "missing": true
+        }
+      ],
+      "choice": {
+        "enabled": false,
+        "prompt": "",
+        "options": []
+      }
+    }
+  ]
+}

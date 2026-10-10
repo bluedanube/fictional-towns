@@ -1,0 +1,187 @@
+{
+  "id": "ch02",
+  "title": "拭かれた机",
+  "girl": "U3V2-03",
+  "status": "draft",
+  "scenes": [
+    {
+      "bg": "sewn-town/02-rabi-playground",
+      "time": "dusk",
+      "bgm": null,
+      "se": [
+        "water-low",
+        "swing-creak"
+      ],
+      "lines": [
+        {
+          "who": "narr",
+          "text": "遊び場に、人の姿はない。ブランコだけが、小さく揺れている。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "遊具の影が長い。砂場に、忘れられたバケツが伏せてある。"
+        },
+        {
+          "who": "narr",
+          "text": "路地の入口に、白いうさぎの頭巾が見える。"
+        },
+        {
+          "who": "U3V2-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "left"
+          },
+          "text": "「しっ。いま、集めてるところ」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "ラビがしゃがんで、地面に手をのばす。"
+        },
+        {
+          "who": "narr",
+          "text": "何もないようで、指の先に、ほのかな光がたまる。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "手のひらを開くと、光は一瞬だけ、うさぎの形になる。"
+        },
+        {
+          "who": "U3V2-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "left"
+          },
+          "text": "「こぼれた夢。夕方の路地は、よくこぼれるの」",
+          "missing": true
+        },
+        {
+          "who": "U3V2-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「眠るとき、ぽろっと落ちるの。落ちたら、拾ってあげないと」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "集めた光を、ラビは頭巾の中にそっとしまう。"
+        },
+        {
+          "who": "U3V2-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "downcast",
+            "pos": "left"
+          },
+          "text": "「眠ってる子の枕に、返してあげるの。ぜんぶは、返せないけど」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "学校のほうから、箒の音が近づいてくる。"
+        },
+        {
+          "who": "U3-16",
+          "icon": "U3-16",
+          "text": "「おや、お客さんですか。校庭は、いま誰もいませんよ」"
+        },
+        {
+          "who": "narr",
+          "text": "小学校の用務員の井口さんだ。手に、乾いた雑巾を持っている。"
+        },
+        {
+          "who": "U3-16",
+          "icon": "U3-16",
+          "text": "「教室の掃除が、いま終わったところで」"
+        },
+        {
+          "who": "U3-16",
+          "icon": "U3-16",
+          "text": "「机は、今日も一つ余計に拭きました。クセみたいなものです」",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "井口さんの雑巾は、よく洗われて、ほのかに石けんの匂いがする。"
+        },
+        {
+          "who": "narr",
+          "text": "井口さんは、それ以上は何も言わない。わたしも、聞かない。"
+        },
+        {
+          "who": "U3V2-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「ここの教室、窓がきれいなんだよ。夕方になると、金色になる」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "ラビの頭巾が、風もないのに、ふわりと膨らむ。"
+        },
+        {
+          "who": "narr",
+          "text": "中の光は、あたたかい色をしている。"
+        },
+        {
+          "who": "narr",
+          "text": "校舎の窓が、ほんの少しだけ、金色に光る。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "校舎の窓の明かりが、一つずつ消えていく。"
+        },
+        {
+          "who": "narr",
+          "text": "ラビの頭巾が、ふわりと揺れる。"
+        },
+        {
+          "who": "U3-16",
+          "icon": "U3-16",
+          "text": "「では、わたしは戻ります。戸締まりがありますので」"
+        },
+        {
+          "who": "U3V2-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「井口さん、ばいばい」",
+          "missing": true
+        },
+        {
+          "who": "U3-16",
+          "icon": "U3-16",
+          "text": "「はい。また、あした」"
+        },
+        {
+          "who": "U3V2-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「また、あした。」",
+          "missing": true
+        }
+      ],
+      "choice": {
+        "enabled": false,
+        "prompt": "",
+        "options": []
+      }
+    }
+  ]
+}
