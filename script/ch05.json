@@ -1,0 +1,177 @@
+{
+  "id": "ch05",
+  "title": "月を連れて橋を渡る",
+  "girl": "U3C-03",
+  "status": "draft",
+  "scenes": [
+    {
+      "bg": "sewn-town/05-mio-bridge",
+      "time": "night",
+      "bgm": null,
+      "se": [
+        "water-low",
+        "footsteps-far"
+      ],
+      "lines": [
+        {
+          "who": "narr",
+          "text": "日が暮れた。橋の灯が、青白くなった。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "水路の音は、夜になると、少し低くなる。"
+        },
+        {
+          "who": "narr",
+          "text": "橋の欄干は、冷たく、手に吸いつくようだ。"
+        },
+        {
+          "who": "narr",
+          "text": "水面には、橋の灯が、ひとつずつ映っている。"
+        },
+        {
+          "who": "narr",
+          "text": "橋の階段に、三日月の帽子の子が腰かけている。"
+        },
+        {
+          "who": "U3C-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "center"
+          },
+          "text": "「こんばんは。ちょうど、階段を照らしてたとこ」",
+          "missing": true
+        },
+        {
+          "who": "U3C-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「ミオ。忘れられた段を、ひとつずつ」",
+          "missing": true,
+          "book": true
+        },
+        {
+          "who": "U3C-03",
+          "sprite": {
+            "pose": "magic",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「月はね、足もとがいちばん好きなの」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "ミオが帽子のふちを傾ける。三日月の光が、階段の石に落ちる。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "さっきまで暗かった段が、ほのかに浮かびあがる。"
+        },
+        {
+          "who": "narr",
+          "text": "石の段は、一つ一つ、形が違う。丁寧に積まれている。"
+        },
+        {
+          "who": "U3-05",
+          "icon": "U3-05",
+          "text": "「橋の灯は、これで全部です」"
+        },
+        {
+          "who": "narr",
+          "text": "灯谷さんが、梯子を畳みながらやってくる。"
+        },
+        {
+          "who": "U3-05",
+          "icon": "U3-05",
+          "text": "「ミオさんの光があると、助かりますよ。階段が、見えやすい」"
+        },
+        {
+          "who": "U3C-03",
+          "sprite": {
+            "pose": "magic",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「でも、灯守さんの灯のほうが、あったかい」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "そこへ、規則正しい足音が近づいてくる。"
+        },
+        {
+          "who": "U3-06",
+          "icon": "U3-06",
+          "text": "「巡回です」"
+        },
+        {
+          "who": "narr",
+          "text": "夜警の黒澤さんだ。手に、使いこんだ巡回簿を持っている。"
+        },
+        {
+          "who": "U3-06",
+          "icon": "U3-06",
+          "text": "「今夜も、足音は一つ多いようです。記録だけ、しておきます」",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "ペンの先が、紙の上でかすかに鳴る。"
+        },
+        {
+          "who": "narr",
+          "text": "黒澤さんは、ペンを走らせて、巡回簿を閉じる。"
+        },
+        {
+          "who": "narr",
+          "text": "橋の上には、わたしと、ミオと、灯谷さんと、黒澤さんがいる。"
+        },
+        {
+          "who": "narr",
+          "text": "足音は、規則正しい。どれが誰のものかは、聞き分けられない。"
+        },
+        {
+          "who": "narr",
+          "text": "足音は、数えるたびに、合わない。"
+        },
+        {
+          "who": "narr",
+          "text": "ミオの月が、水面にも映る。",
+          "book": true
+        },
+        {
+          "who": "U3-06",
+          "icon": "U3-06",
+          "text": "「では、次の巡回へ」"
+        },
+        {
+          "who": "U3-05",
+          "icon": "U3-05",
+          "text": "「また、あした。」"
+        },
+        {
+          "who": "U3C-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「また、あした。」",
+          "missing": true
+        }
+      ],
+      "choice": {
+        "enabled": false,
+        "prompt": "",
+        "options": []
+      }
+    }
+  ]
+}

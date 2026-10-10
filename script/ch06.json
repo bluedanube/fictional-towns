@@ -1,0 +1,182 @@
+{
+  "id": "ch06",
+  "title": "ほつれた継ぎ目",
+  "girl": "U3V2-07",
+  "status": "draft",
+  "scenes": [
+    {
+      "bg": "sewn-town/06-nui-alley",
+      "time": "night",
+      "bgm": null,
+      "se": [
+        "water-low",
+        "cloth-rub"
+      ],
+      "lines": [
+        {
+          "who": "narr",
+          "text": "通りの途中を北へ折れると、細い路地がある。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "軒と軒のあいだに、継ぎ目の線が残っている。"
+        },
+        {
+          "who": "narr",
+          "text": "壁にもたれて、つぎはぎの帽子の子が針を持っている。"
+        },
+        {
+          "who": "U3V2-07",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "right"
+          },
+          "text": "「いらっしゃい。ここ、ほつれてるの」",
+          "missing": true
+        },
+        {
+          "who": "U3V2-07",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "right"
+          },
+          "text": "「ヌイ。思い出のほつれを、つなぐ係」",
+          "missing": true,
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "ヌイが指さす先に、古い遊びの思い出が、糸のようにほどけかけている。"
+        },
+        {
+          "who": "U3V2-07",
+          "sprite": {
+            "pose": "magic",
+            "face": "smile",
+            "pos": "right"
+          },
+          "text": "「ほどけるのは、悪いことじゃないの。つなぐ場所が、見つかるから」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "針が、すっと通る。布の擦れる音が、路地にひびく。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "ほつれは、ひとつ、またひとつと、閉じていく。"
+        },
+        {
+          "who": "narr",
+          "text": "針が通るたびに、遠い声が、遊びの続きを呼んだような気がする。"
+        },
+        {
+          "who": "U3-02",
+          "icon": "U3-02",
+          "text": "「おや、直しですか。わたしも、仕事の帰りで」"
+        },
+        {
+          "who": "narr",
+          "text": "人形修理の針生さんが、小さな箱を抱えている。"
+        },
+        {
+          "who": "U3-02",
+          "icon": "U3-02",
+          "text": "「今日の人形は、返却の日です。目を伏せて、帰っていきます」"
+        },
+        {
+          "who": "narr",
+          "text": "針生さんの箱の中で、人形がかすかに身じろぎする。"
+        },
+        {
+          "who": "U3V2-07",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "right"
+          },
+          "text": "「いつもの。針生さんの人形、おとなしい」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "路地の奥の窓が、ぼんやり明るい。"
+        },
+        {
+          "who": "U3-07",
+          "icon": "U3-07",
+          "text": "「現像、できましたよ」"
+        },
+        {
+          "who": "narr",
+          "text": "写真師の三瀬さんが、乾いた写真を数枚、手に持っている。"
+        },
+        {
+          "who": "narr",
+          "text": "並んだ椅子の写真だ。椅子は、すべて埋まっている。数えると、座る人が、一人多い。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "三瀬さんは、何も言わずに、その一枚を裏返す。"
+        },
+        {
+          "who": "U3-07",
+          "icon": "U3-07",
+          "text": "「いつも、こうなんです。気にしないで、くださいね」"
+        },
+        {
+          "who": "narr",
+          "text": "三瀬さんの手から、現像液の匂いがかすかに立つ。"
+        },
+        {
+          "who": "narr",
+          "text": "ヌイの針は、止まらない。"
+        },
+        {
+          "who": "U3V2-07",
+          "sprite": {
+            "pose": "magic",
+            "face": "smile",
+            "pos": "right"
+          },
+          "text": "「つなぐとね、どこも、前よりちょっとだけ、丈夫になるの」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "布の街らしく、壁のあちこちに縫い目が見える。どれも、きれいに閉じている。"
+        },
+        {
+          "who": "narr",
+          "text": "夜の路地に、青白い灯が、一つ落ちる。",
+          "book": true
+        },
+        {
+          "who": "U3-02",
+          "icon": "U3-02",
+          "text": "「また、あした。」"
+        },
+        {
+          "who": "U3V2-07",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "right"
+          },
+          "text": "「また、あした。」",
+          "missing": true
+        }
+      ],
+      "choice": {
+        "enabled": false,
+        "prompt": "",
+        "options": []
+      }
+    }
+  ]
+}

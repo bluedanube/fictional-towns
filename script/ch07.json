@@ -1,0 +1,195 @@
+{
+  "id": "ch07",
+  "title": "開けない扉",
+  "girl": "F2C-02",
+  "status": "draft",
+  "scenes": [
+    {
+      "bg": "sewn-town/07-kii-saiseikan-v2",
+      "time": "night",
+      "bgm": null,
+      "se": [
+        "water-low",
+        "key-jingle"
+      ],
+      "lines": [
+        {
+          "who": "narr",
+          "text": "東岸の通りの北に、行き止まりの路地がある。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "その先に、洋館がある。入口は、固く閉じている。"
+        },
+        {
+          "who": "narr",
+          "text": "門柱の上に、小さな灯が一つだけついている。"
+        },
+        {
+          "who": "narr",
+          "text": "扉の木目は、よく見ると、細い糸の目のように並んでいる。"
+        },
+        {
+          "who": "narr",
+          "text": "扉の前に、鍵飾りをつけた子が立っている。"
+        },
+        {
+          "who": "F2C-02",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "center"
+          },
+          "text": "「しずかに。この扉は、眠ってるから」",
+          "missing": true
+        },
+        {
+          "who": "F2C-02",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "center"
+          },
+          "text": "「キイ。古い鍵で、記憶の扉を開ける係」",
+          "missing": true,
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "キイの手に、一本の鍵がある。古びていて、先が少し曲がっている。",
+          "book": true
+        },
+        {
+          "who": "F2-01",
+          "icon": "F2-01",
+          "text": "「これは、うちの店の鍵束にあった一本でして」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "鍵師の柊さんが、ゆっくりと近づいてくる。"
+        },
+        {
+          "who": "F2-01",
+          "icon": "F2-01",
+          "text": "「型を取った覚えは、ないんです。持ち主も、わかりません」",
+          "missing": true
+        },
+        {
+          "who": "F2-01",
+          "icon": "F2-01",
+          "text": "「それでも、捨てられなくてね」",
+          "missing": true
+        },
+        {
+          "who": "F2-01",
+          "icon": "F2-01",
+          "text": "「鍵は、使うためのものだと思っていました。置いておく鍵も、あるんですね」",
+          "missing": true
+        },
+        {
+          "who": "F2C-02",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「大丈夫。ちゃんと、あずかるから」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "キイは、鍵をそっと握りしめる。"
+        },
+        {
+          "who": "narr",
+          "text": "鍵穴の前まで、鍵を持っていく。"
+        },
+        {
+          "who": "narr",
+          "text": "金属の冷たさが、指先にも伝わってきそうだ。"
+        },
+        {
+          "who": "narr",
+          "text": "鍵は、鍵穴の前にある。"
+        },
+        {
+          "who": "narr",
+          "text": "けれど、キイは、鍵を差しこまない。"
+        },
+        {
+          "who": "F2C-02",
+          "sprite": {
+            "pose": "normal",
+            "face": "downcast",
+            "pos": "center"
+          },
+          "text": "「開けない」",
+          "book": true,
+          "missing": true
+        },
+        {
+          "who": "F2-01",
+          "icon": "F2-01",
+          "text": "「そうですか」",
+          "missing": true
+        },
+        {
+          "who": "F2C-02",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「扉は、ここにある。鍵も、ここにある。それで、いいの」",
+          "missing": true
+        },
+        {
+          "who": "F2C-02",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "center"
+          },
+          "text": "「開けるのは、鍵の仕事。開けないのは、わたしの仕事」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "洋館の窓は、ほのかに灯っている。冷たくはない。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "路地の奥で、猫が一匹、塀の上を歩いていく。"
+        },
+        {
+          "who": "narr",
+          "text": "風が、路地の奥まで届いて、止まる。"
+        },
+        {
+          "who": "F2-01",
+          "icon": "F2-01",
+          "text": "「また、あした。」",
+          "missing": true
+        },
+        {
+          "who": "F2C-02",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「また、あした。」",
+          "missing": true
+        }
+      ],
+      "choice": {
+        "enabled": false,
+        "prompt": "",
+        "options": []
+      }
+    }
+  ]
+}

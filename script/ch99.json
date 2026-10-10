@@ -1,0 +1,178 @@
+{
+  "id": "ch99",
+  "title": "灯がともる",
+  "girl": null,
+  "status": "draft",
+  "scenes": [
+    {
+      "bg": "sewn-town/99-bridge-night",
+      "time": "night",
+      "bgm": null,
+      "se": [
+        "water-low",
+        "bell-far",
+        "applause-far"
+      ],
+      "lines": [
+        {
+          "who": "narr",
+          "text": "橋のたもとに戻ると、灯が、すべてともっている。"
+        },
+        {
+          "who": "narr",
+          "text": "白かった日暮れの光は、もう、どこにもない。青白い水銀灯だけが、通りを照らしている。"
+        },
+        {
+          "who": "narr",
+          "text": "橋の下の水路が、灯を映して、一本の帯のように光っている。"
+        },
+        {
+          "who": "narr",
+          "text": "人が、集まっている。"
+        },
+        {
+          "who": "narr",
+          "text": "トキがいる。ラビがいる。ルリがいる。ホシがいる。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "ミオ、ヌイ、キイ、リラ。ほかの少女たちも、ひとり、またひとりと、灯の下に並ぶ。"
+        },
+        {
+          "who": "narr",
+          "text": "橋の欄干に、手が並ぶ。"
+        },
+        {
+          "who": "narr",
+          "text": "時田さんも、井口さんも、野上さんも。小池さんも、和田さんも。黒澤さんも、針生さんも。"
+        },
+        {
+          "who": "narr",
+          "text": "三瀬さん、柊さん、瀬尾さん。"
+        },
+        {
+          "who": "narr",
+          "text": "遠くで、拍手のような音がする。"
+        },
+        {
+          "who": "narr",
+          "text": "音は、誰もいないほうから、小さく届く。"
+        },
+        {
+          "who": "U3-05",
+          "icon": "U3-05",
+          "text": "「灯は、これで全部です」"
+        },
+        {
+          "who": "narr",
+          "text": "遠くで、鈴が一度だけ鳴る。"
+        },
+        {
+          "who": "U3-05",
+          "icon": "U3-05",
+          "text": "「おつかれさまでした。今日は、いい日でした」"
+        },
+        {
+          "who": "narr",
+          "text": "みなが、わたしを見る。"
+        },
+        {
+          "who": "narr",
+          "text": "わたしは、どこから歩いてきたのかを、もう思い出せない。それでも、ここは、あたたかい。",
+          "book": true
+        },
+        {
+          "who": "U3C-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「夜になったね」",
+          "missing": true
+        },
+        {
+          "who": "U3C-08",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「帰り道は、ここまで読めたよ」",
+          "missing": true
+        },
+        {
+          "who": "F2C-14",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "right"
+          },
+          "text": "「舟は、ここに置いておくね」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "水の音が、ずっと続いている。"
+        },
+        {
+          "who": "narr",
+          "text": "誰も、急がない。灯の下で、みな、静かに立っている。"
+        },
+        {
+          "who": "U3-05",
+          "icon": "U3-05",
+          "text": "「また、あした。」"
+        },
+        {
+          "who": "U3-01",
+          "icon": "U3-01",
+          "text": "「また、あした。」"
+        },
+        {
+          "who": "U3V2-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「また、あした。」",
+          "missing": true
+        },
+        {
+          "who": "U3C-03",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "center"
+          },
+          "text": "「また、あした。」",
+          "missing": true
+        },
+        {
+          "who": "F2C-02",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "right"
+          },
+          "text": "「また、あした。」",
+          "missing": true,
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "灯は、ともったままだ。",
+          "book": true
+        }
+      ],
+      "choice": {
+        "enabled": false,
+        "prompt": "",
+        "options": []
+      },
+      "bg_missing": true
+    }
+  ]
+}

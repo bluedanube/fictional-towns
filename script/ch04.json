@@ -1,0 +1,186 @@
+{
+  "id": "ch04",
+  "title": "白い一枚",
+  "girl": "U3V2-01",
+  "status": "draft",
+  "scenes": [
+    {
+      "bg": "sewn-town/04-hoshi-green",
+      "time": "dusk",
+      "bgm": null,
+      "se": [
+        "water-low",
+        "hyoshigi"
+      ],
+      "lines": [
+        {
+          "who": "narr",
+          "text": "橋を渡ると、東岸に丸い広場がある。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "真ん中に、小さな池がある。水面は、うす青い。"
+        },
+        {
+          "who": "narr",
+          "text": "池のふちには、小さなベンチが並ぶ。どれも、少しだけ水のほうを向いている。"
+        },
+        {
+          "who": "narr",
+          "text": "池のふちで、星の形の帽子が揺れている。"
+        },
+        {
+          "who": "U3V2-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「見て。星がひとつ、いるの」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "のぞくと、水の底に、小さな光がある。空はまだ明るいのに。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "光は、揺れながら、ときどきこちらを見るように瞬く。"
+        },
+        {
+          "who": "U3V2-01",
+          "sprite": {
+            "pose": "magic",
+            "face": "neutral",
+            "pos": "left"
+          },
+          "text": "「ホシっていうの、わたし。消えた夜道の星を、拾ってるの」",
+          "missing": true
+        },
+        {
+          "who": "U3V2-01",
+          "sprite": {
+            "pose": "magic",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「拾うと、帰り道に灯をともせる。ちょっとだけ」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "星は、水面を揺らしても、逃げない。"
+        },
+        {
+          "who": "U3V2-01",
+          "sprite": {
+            "pose": "magic",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「逃げないの、えらいでしょ」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "広場の端から、拍子木の音がする。"
+        },
+        {
+          "who": "F2-03",
+          "icon": "F2-03",
+          "text": "「さあ、はじまり、はじまり」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "紙芝居の小池さんだ。自転車の荷台に、木の舞台がのっている。"
+        },
+        {
+          "who": "narr",
+          "text": "絵が、一枚ずつめくられていく。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "小池さんの声は、低くて、よく通る。広場の端まで、ゆっくり届く。"
+        },
+        {
+          "who": "narr",
+          "text": "絵の中では、夕焼けの野原を、犬が一匹走っている。"
+        },
+        {
+          "who": "narr",
+          "text": "小池さんは、最後の一枚の前で、手を止める。"
+        },
+        {
+          "who": "F2-03",
+          "icon": "F2-03",
+          "text": "「最後の一枚は、いつも白いんです」",
+          "missing": true
+        },
+        {
+          "who": "F2-10",
+          "icon": "F2-10",
+          "text": "「冷たいのを、どうぞ」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "氷屋の和田さんが、小さな欠けらをひとつずつ配って回る。"
+        },
+        {
+          "who": "narr",
+          "text": "氷のかどに、光が、ひと粒ずつたまっている。"
+        },
+        {
+          "who": "U3V2-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「つめたい。おいしい」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "白い一枚の上を、風がそっと通りすぎる。",
+          "book": true
+        },
+        {
+          "who": "F2-03",
+          "icon": "F2-03",
+          "text": "「続きは、いつものとおりです。白いままで、箱にしまいます」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "白い一枚は、そのまま箱に戻される。紙の端が、灯の下でほの白く光る。"
+        },
+        {
+          "who": "F2-10",
+          "icon": "F2-10",
+          "text": "「また、あした。」",
+          "missing": true
+        },
+        {
+          "who": "U3V2-01",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「また、あした。」",
+          "missing": true
+        }
+      ],
+      "choice": {
+        "enabled": false,
+        "prompt": "",
+        "options": []
+      }
+    }
+  ]
+}

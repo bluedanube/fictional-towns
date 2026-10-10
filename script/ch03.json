@@ -1,0 +1,188 @@
+{
+  "id": "ch03",
+  "title": "宛名のない封筒",
+  "girl": "U3C-08",
+  "status": "draft",
+  "scenes": [
+    {
+      "bg": "sewn-town/03-ruri-platform",
+      "time": "dusk",
+      "bgm": null,
+      "se": [
+        "water-low",
+        "rail-wind"
+      ],
+      "lines": [
+        {
+          "who": "narr",
+          "text": "橋の南に、糸のホームがある。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "線路は、細い紐のように、東西へのびている。"
+        },
+        {
+          "who": "narr",
+          "text": "ホームの屋根は低く、板の一枚一枚が、糸で縫い合わされている。"
+        },
+        {
+          "who": "narr",
+          "text": "ホームの端に、丸いゴーグルをかけた子が立っている。"
+        },
+        {
+          "who": "U3C-08",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "right"
+          },
+          "text": "「ここ、帰り道が一本、消えてるの」",
+          "missing": true
+        },
+        {
+          "who": "U3C-08",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "right"
+          },
+          "text": "「ルリ。道の輪郭を、読む係」",
+          "missing": true,
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "ルリがゴーグルを下ろす。レンズの中を、細い線が走る。"
+        },
+        {
+          "who": "narr",
+          "text": "見えない道の縁を、指でなぞっていく。ホームの先、線路の向こうへ。",
+          "book": true
+        },
+        {
+          "who": "U3C-08",
+          "sprite": {
+            "pose": "magic",
+            "face": "downcast",
+            "pos": "right"
+          },
+          "text": "「ここまでは、あった。ここからは、まだ」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "線路の向こうの暗がりに、うすく灯が一つ、見える。"
+        },
+        {
+          "who": "U3C-08",
+          "sprite": {
+            "pose": "magic",
+            "face": "neutral",
+            "pos": "right"
+          },
+          "text": "「帰り道はね、なくなったんじゃないの。見えにくくなっただけ」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "自転車のベルが鳴る。"
+        },
+        {
+          "who": "U3-08",
+          "icon": "U3-08",
+          "text": "「お疲れさまです。郵便です」"
+        },
+        {
+          "who": "narr",
+          "text": "郵便配達の野上さんだ。若い。鞄が、ぱんぱんにふくれている。"
+        },
+        {
+          "who": "narr",
+          "text": "鞄の口から、白い封筒の束がのぞいている。宛名の欄は、どれも空白だ。",
+          "book": true
+        },
+        {
+          "who": "U3-08",
+          "icon": "U3-08",
+          "text": "「宛先がなくても、三丁目に着くんです。毎日、決まって」"
+        },
+        {
+          "who": "narr",
+          "text": "野上さんは、慣れた手つきで、束を持ち替える。朝も、同じ道を回るのだという。"
+        },
+        {
+          "who": "U3-08",
+          "icon": "U3-08",
+          "text": "「だから、いつも同じ束を、同じ郵便箱に入れてます」"
+        },
+        {
+          "who": "narr",
+          "text": "郵便箱は、ホームの柱にくくりつけられている。口が少し開いて、風を吸っている。"
+        },
+        {
+          "who": "U3C-08",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "right"
+          },
+          "text": "「宛名がなくても、封筒は届くよ」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "野上さんは、封筒の束の端をそろえて、ホームのベンチに置く。"
+        },
+        {
+          "who": "narr",
+          "text": "風が吹いても、封筒は飛ばない。"
+        },
+        {
+          "who": "narr",
+          "text": "ホームには、列車の気配はない。みな、それで落ち着いている。"
+        },
+        {
+          "who": "narr",
+          "text": "ルリの指の先で、消えた道の輪郭が、ほんの一筋だけ光る。",
+          "book": true
+        },
+        {
+          "who": "U3C-08",
+          "sprite": {
+            "pose": "magic",
+            "face": "smile",
+            "pos": "right"
+          },
+          "text": "「ほら。ここまで、読めた」",
+          "missing": true
+        },
+        {
+          "who": "U3-08",
+          "icon": "U3-08",
+          "text": "「配達は、いつもどおりです」"
+        },
+        {
+          "who": "U3-08",
+          "icon": "U3-08",
+          "text": "「また、あした。」"
+        },
+        {
+          "who": "U3C-08",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "right"
+          },
+          "text": "「また、あした。」",
+          "missing": true
+        }
+      ],
+      "choice": {
+        "enabled": false,
+        "prompt": "",
+        "options": []
+      }
+    }
+  ]
+}

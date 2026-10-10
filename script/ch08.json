@@ -1,0 +1,183 @@
+{
+  "id": "ch08",
+  "title": "花のある席",
+  "girl": "F2C-14",
+  "status": "draft",
+  "scenes": [
+    {
+      "bg": "sewn-town/08-lila-bench",
+      "time": "night",
+      "bgm": null,
+      "se": [
+        "water-low",
+        "lullaby-hum"
+      ],
+      "lines": [
+        {
+          "who": "narr",
+          "text": "丸い広場のベンチに、夜の灯が落ちている。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "池の水は、もう黒く、静かだ。"
+        },
+        {
+          "who": "narr",
+          "text": "池の端に、水草が一本、ゆっくり揺れている。"
+        },
+        {
+          "who": "narr",
+          "text": "ベンチの端に、船の形をした帽子の子が座っている。"
+        },
+        {
+          "who": "F2C-14",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「こんばんは。夜の川、渡ります?」",
+          "missing": true
+        },
+        {
+          "who": "F2C-14",
+          "sprite": {
+            "pose": "normal",
+            "face": "neutral",
+            "pos": "left"
+          },
+          "text": "「リラ。紙の舟で、夢の川を渡る係」",
+          "missing": true,
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "リラが、膝の上の紙を折る。ゆっくり、きちんと。"
+        },
+        {
+          "who": "narr",
+          "text": "小さな舟が、できあがる。リラはそれを、池に浮かべる。",
+          "book": true
+        },
+        {
+          "who": "narr",
+          "text": "舟は、音もなく、水の上を進んでいく。"
+        },
+        {
+          "who": "F2C-14",
+          "sprite": {
+            "pose": "magic",
+            "face": "neutral",
+            "pos": "left"
+          },
+          "text": "「夢の川はね、夜ほど、広くなるの」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "舟の帆に、橋の灯が、小さく映る。"
+        },
+        {
+          "who": "F2-14",
+          "icon": "F2-14",
+          "text": "「あ、リラちゃん。まだ、起きてたのね」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "保育士の瀬尾さんが、小さく歌っている。"
+        },
+        {
+          "who": "F2-14",
+          "icon": "F2-14",
+          "text": "「ねんねん、ころり。ここまでしか、覚えていなくて」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "子守歌は、一節だけ。そこで、ふっと途切れる。",
+          "book": true
+        },
+        {
+          "who": "F2C-14",
+          "sprite": {
+            "pose": "magic",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「それで、いいと思う。続きは、また、思い出せるから」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "ベンチの反対の端に、花が一輪、置かれている。"
+        },
+        {
+          "who": "narr",
+          "text": "座る人のいない端の席に、花びらが一枚、そっと揺れている。",
+          "book": true
+        },
+        {
+          "who": "F2-14",
+          "icon": "F2-14",
+          "text": "「ここは、いつも、空けてあるんです」",
+          "missing": true
+        },
+        {
+          "who": "F2-14",
+          "icon": "F2-14",
+          "text": "「花も、毎晩、そのままで」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "誰も、聞かない。"
+        },
+        {
+          "who": "narr",
+          "text": "紙の舟が、池の真ん中で、ゆらりと止まる。"
+        },
+        {
+          "who": "narr",
+          "text": "水面に、輪が広がる。輪は、ゆっくり消える。"
+        },
+        {
+          "who": "F2C-14",
+          "sprite": {
+            "pose": "normal",
+            "face": "downcast",
+            "pos": "left"
+          },
+          "text": "「舟は、ここで待ってる」",
+          "missing": true
+        },
+        {
+          "who": "narr",
+          "text": "夜は、しずかに深くなっていく。"
+        },
+        {
+          "who": "F2-14",
+          "icon": "F2-14",
+          "text": "「また、あした。」",
+          "missing": true
+        },
+        {
+          "who": "F2C-14",
+          "sprite": {
+            "pose": "normal",
+            "face": "smile",
+            "pos": "left"
+          },
+          "text": "「また、あした。」",
+          "missing": true
+        }
+      ],
+      "choice": {
+        "enabled": false,
+        "prompt": "",
+        "options": []
+      }
+    }
+  ]
+}
