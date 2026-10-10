@@ -67,7 +67,7 @@
         {
           "who": "F2C-14",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "neutral",
             "pos": "left"
           },
@@ -102,7 +102,7 @@
         {
           "who": "F2C-14",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "smile",
             "pos": "left"
           },
@@ -132,7 +132,7 @@
         },
         {
           "who": "narr",
-          "text": "誰の席なのかは、言わない。誰も、聞かない。"
+          "text": "誰も、聞かない。"
         },
         {
           "who": "narr",

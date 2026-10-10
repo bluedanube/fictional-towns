@@ -58,7 +58,7 @@
         {
           "who": "U3C-03",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "smile",
             "pos": "center"
           },
@@ -76,7 +76,7 @@
         },
         {
           "who": "narr",
-          "text": "石の段は、一つ一つ、形が違う。誰かが、丁寧に積んだように。"
+          "text": "石の段は、一つ一つ、形が違う。丁寧に積まれている。"
         },
         {
           "who": "U3-05",
@@ -95,7 +95,7 @@
         {
           "who": "U3C-03",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "smile",
             "pos": "center"
           },

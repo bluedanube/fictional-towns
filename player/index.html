@@ -92,7 +92,7 @@ var TINT={dusk:"rgba(255,215,160,.10)",night:"rgba(8,22,60,.38)"};
 var POS={left:"20%",center:"50%",right:"80%"};
 var SPEED=38, NEED=8;
 
-var data=null, steps=[], pos=0, typing=null, threads=0, hasChoice=false, lastScene=null, audio={bgm:null,bgmName:null};
+var forceRoster=false, debug=false, data=null, steps=[], pos=0, typing=null, threads=0, hasChoice=false, lastScene=null, audio={bgm:null,bgmName:null};
 
 function show(el,on){el.classList[on?"add":"remove"]("show")}
 function ph(cls,label){var d=document.createElement("div");d.className=cls||"ph";d.textContent=label;return d}
@@ -183,9 +183,9 @@ function render(animate){
   setBg(sc);
   var key=s.ci+":"+(s.si||0);
   if(key!==lastScene){lastScene=key;if(animate)playAudio(sc)}
-  $("hud").textContent=ch.title+(hasChoice?"　糸 "+threads:"")+(sc.bgm||(sc.se&&sc.se.length)?"\n♪ "+[sc.bgm].concat(sc.se||[]).filter(Boolean).join(" / "):"");
+  $("hud").textContent=ch.title+(hasChoice?"　糸 "+threads:"")+(debug&&(sc.bgm||(sc.se&&sc.se.length))?"\n♪ "+[sc.bgm].concat(sc.se||[]).filter(Boolean).join(" / "):"");
   $("hud").style.whiteSpace="pre";
-  $("bRoster").style.display=(hasChoice&&threads>=NEED)?"":"none";
+  $("bRoster").style.display=((hasChoice&&threads>=NEED)||forceRoster)?"":"none";
   if(s.k==="title"){
     $("sprites").innerHTML="";$("box").classList.add("hide");
     var t=$("title");t.querySelector(".c").textContent=ch.id==="ch00"?"序":ch.id==="ch99"?"終":"第"+parseInt(ch.id.slice(2),10)+"章";
@@ -232,7 +232,7 @@ function prev(){
 }
 function ending(){
   var s=steps[pos];
-  if(hasChoice&&threads>=NEED){openRoster();return}
+  if((hasChoice&&threads>=NEED)||forceRoster){openRoster();return}
   $("name").textContent="";$("text").textContent="（おわり）";
 }
 
@@ -306,7 +306,7 @@ function start(d){
     else if(e.key==="b"||e.key==="B")openBook();
   });
   // ?ch=3 や #ch03 で章から始める。?book=1 で絵本表示から。
-  var q=location.search+location.hash,m=q.match(/ch=?0?(\d+)/);
+  var q=location.search+location.hash;forceRoster=/roster=1/.test(q);debug=/debug=1/.test(q);var m=q.match(/ch=?0?(\d+)/);
   if(m){var want="ch"+("0"+m[1]).slice(-2);var ci=data.chapters.findIndex(function(c){return c.id===want});if(ci>=0)pos=steps.findIndex(function(s){return s.k==="title"&&s.ci===ci})}
   render(true);
   if(/book=1/.test(q))openBook(0);

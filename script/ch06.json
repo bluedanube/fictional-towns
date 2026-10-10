@@ -54,7 +54,7 @@
         {
           "who": "U3V2-07",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "smile",
             "pos": "right"
           },
@@ -140,7 +140,7 @@
         {
           "who": "U3V2-07",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "smile",
             "pos": "right"
           },

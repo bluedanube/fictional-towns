@@ -22,7 +22,7 @@ python3 player/build-data.py
 | 「章」 | 章の選択 |
 | Esc | 閉じる |
 
-URL：`index.html?ch=4`（または `#ch04`）でその章から、`?book=1` で絵本表示から始める。
+URL：`index.html?ch=4`（または `#ch04`）でその章から、`?book=1` で絵本表示から始める。`?roster=1` で名簿ボタンを出し、終了時に名簿を開く（確認用）。`?debug=1` で左上に BGM／SE 名を出す（既定では出さない）。
 
 ## 画面
 - 背景全面、立ち絵（`pos`: left／center／right）、下部のテキスト窓、住人は窓内の小アイコン。文字は1文字ずつ表示。

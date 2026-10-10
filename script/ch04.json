@@ -52,7 +52,7 @@
         {
           "who": "U3V2-01",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "neutral",
             "pos": "left"
           },
@@ -62,7 +62,7 @@
         {
           "who": "U3V2-01",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "smile",
             "pos": "left"
           },
@@ -76,7 +76,7 @@
         {
           "who": "U3V2-01",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "smile",
             "pos": "left"
           },

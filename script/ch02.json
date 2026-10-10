@@ -29,7 +29,7 @@
         {
           "who": "U3V2-03",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "neutral",
             "pos": "left"
           },
@@ -52,7 +52,7 @@
         {
           "who": "U3V2-03",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "neutral",
             "pos": "left"
           },
@@ -62,7 +62,7 @@
         {
           "who": "U3V2-03",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "smile",
             "pos": "left"
           },
@@ -76,7 +76,7 @@
         {
           "who": "U3V2-03",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "downcast",
             "pos": "left"
           },
@@ -104,7 +104,7 @@
         {
           "who": "U3-16",
           "icon": "U3-16",
-          "text": "「机は、今日も一つ余計に拭きました。クセみたいなものです」",
+          "text": "「机は、今日も一つ余計に拭きました。くせみたいなものです」",
           "book": true
         },
         {

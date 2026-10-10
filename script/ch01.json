@@ -71,7 +71,7 @@
         {
           "who": "U3C-01",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "neutral",
             "pos": "center"
           },
@@ -102,7 +102,7 @@
         {
           "who": "U3C-01",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "smile",
             "pos": "center"
           },
@@ -117,7 +117,7 @@
         {
           "who": "U3C-01",
           "sprite": {
-            "pose": "normal",
+            "pose": "magic",
             "face": "smile",
             "pos": "center"
           },
@@ -135,7 +135,7 @@
         },
         {
           "who": "narr",
-          "text": "操縦席には、誰も座っていない。出発の時刻は、まだ決まっていない。"
+          "text": "操縦席には、誰も座っていない。出発の合図は、まだない。"
         },
         {
           "who": "narr",
