@@ -4,10 +4,23 @@
 
 ## 形式と大きさ
 - 形式：WebP（品質90）。見た目を保ちつつ容量を抑えるため。
-- 大きさ：長辺1536px程度。元の大判PNG（約2.7MB）から、約0.3MBに縮めています。
+- 大きさ：1536×1024（元の大きさのまま）。元の大判PNG（約2.6〜2.9MB）から、約0.3MBに縮めています。
 - 元の大判画像は作者のMacにあり、リポジトリには入れません。
 
 ## 出典の記録
-| ファイル | 元の画像 | 対応する設定 |
+
+### 水銀灯の縫い街・連作（`sewn-town/`）
+元の保存先：`output/sewn-town-girls-story-scenes/images/`
+
+| ファイル | 場面 | 人物（姿） |
 |---|---|---|
-| `sewn-town/03-ruri-platform.webp` | `output/sewn-town-girls-story-scenes/images/03-ruri-platform.png` | 水銀灯の縫い街・連作の場面03（ルリ、糸のホームで待つ） |
+| `01-toki-rocket.webp` | 夜を待つロケット | トキ（通常姿） |
+| `02-rabi-playground.webp` | だれもいない遊び場 | ラビ（通常姿） |
+| `03-ruri-platform.webp` | 糸のホームで待つ | ルリ（通常姿） |
+| `04-hoshi-green.webp` | 丸い広場の小さな星 | ホシ（魔法少女姿） |
+| `05-mio-bridge.webp` | 月を連れて橋を渡る | ミオ（魔法少女姿） |
+| `06-nui-alley.webp` | 路地に残された縫い目 | ヌイ（魔法少女姿） |
+| `07-kii-saiseikan-v2.webp` | 閉ざされた館の入口 | キイ（魔法少女姿） |
+| `08-lila-bench.webp` | ベンチと小さな舟 | リラ（魔法少女姿） |
+
+場面の構成は `notes/sewn-town-story.md` を参照してください。
