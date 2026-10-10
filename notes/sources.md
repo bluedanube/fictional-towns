@@ -12,8 +12,8 @@
 | F町2丁目の魔法少女（14人） | `f-town-2-magical-girls-turnarounds/README.txt` | `notes/magical-girls.md` |
 | 水銀灯の縫い街の連作（8場面） | `sewn-town-girls-story-scenes/concept.md` | `notes/sewn-town-story.md` |
 
-## 提案案（未採用）
-- F町2丁目の住人録（14人）は元の資料がなく、U町の住人録と同じ形式で提案した案。作者の承認待ち。反映先：`towns/f-machi-2-chome.md`。
+## 作者が承認した提案
+- F町2丁目の住人録（14人）は元の資料がなく、U町の住人録と同じ形式で提案した案。作者の承認により確定。反映先：`towns/f-machi-2-chome.md`。
 
 ## 注意
 - 元の資料は読み取り専用として扱う（同期元のフォルダは変更しない）。
