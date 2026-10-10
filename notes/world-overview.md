@@ -31,7 +31,7 @@
 - **地理**：北から南へ流れる暗渠の水路をはさみ、西にU町3丁目、東にF町2丁目。橋が一本。南の端を紐の線路が通り、糸のホームがある。実在の地図とは対応させない（案A・独立型）。（`notes/geography.md`、`notes/geography-basis.md`）
 - **縫い街の成り立ち**：畳まれた一日を包む布が、縫い足されて街の形になった。（`notes/sewn-town-origin.md`）
 
-選ばなかった案は `notes/alternatives.md`、既存設定への影響は `notes/impact.md` を参照。
+約束の相手は `notes/promise.md`（作者確定）。選ばなかった案は `notes/alternatives.md`、既存設定への影響は `notes/impact.md` を参照。
 
 ## 現在の段階
 三つの核は仮決定。住人の小さな怪異、少女たちの魔法、風景は、すべて「畳まれた一日」の表と裏として読める。核は説明しきらず、謎を残す。
